@@ -1,0 +1,6 @@
+A class with abstract method should be declared as abstract class.
+
+Time Complexity:-
+
+Big Oh notation :- Means UPPER Bound or we can say maximum limit of time Ex:- O(n) means maximum n iterations or time.
+Big Omega notation :- Means LOWER Bound or we can say minimum time required to execute:- Ω(n) means minimum n time required It can take more than that but minimum n is required.
